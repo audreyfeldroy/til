@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "til"
+  site-url: "https://audreyfeldroy.github.io/til"
+  description: "Today I Learned"
+  repo-branch: main
+  repo-url: "https://github.com/audreyfeldroy/til"
