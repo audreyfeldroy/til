@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://audreyfeldroy.github.io',
                 'git_url': 'https://github.com/audreyfeldroy/til',
                 'lib_path': 'til'},
-  'syms': {'til.core': {'til.core.foo': ('core.html#foo', 'til/core.py')}}}
+  'syms': {'til.core': {'til.core.foo': ('core.html#foo', 'til/core.py'), 'til.core.say_hello': ('core.html#say_hello', 'til/core.py')}}}
