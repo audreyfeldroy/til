@@ -3,3 +3,9 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - 01_printing_components.ipynb
+      - 02_semanticui_cards.ipynb
+      - 03_xtend_pico.ipynb
+      - 2023-07-29-nbdev.ipynb
+      - 2024-07-19-Splitting-Jupyter-Notebooks.ipynb
+      - 2024-07-29-Delegates-Decorator.ipynb
